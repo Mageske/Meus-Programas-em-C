@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-//Declara qual operador aritmetico vai trabalhar e a quantidade de numeros que vai usar//
+//Declara qual operador aritmetico vai trabalhar e a quantidade de variaveis que vai usar//
     int numero1, numero2;
     int soma;
     
